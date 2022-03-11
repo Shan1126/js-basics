@@ -1,0 +1,18 @@
+ [
+    {
+        "name": "Adam",
+        "age": 10,
+        "address": {
+            "addressLine1": "123 Main St"
+        },
+        "email": "adam@test.com"
+    },
+    {
+        "name": "eve",
+        "age": 10,
+        "address": {
+            "addressLine1": "123 Main St"
+        },
+        "email": "eve@test.com"
+    }
+]
